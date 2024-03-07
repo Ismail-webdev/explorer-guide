@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    background-color: #f5f5f5; 
+    max-width: 1440px;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    font-family: "Poppins",sans-serif;
+    font-weight:600;
+    font-style: normal;
+    background: #FDFFFC;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    z-index: 1000;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.logo:hover,nav button:hover{
+    cursor: pointer;
+}
+nav img{
+    width: 32px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style: none;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+nav ul li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+nav button{
+    border: none;
+    background: none;
+    font-weight: 800;
+    font-family: inherit;
+    background: #b22222;
+    padding: 8px;
+    border-radius: 3px;
+    color: white;
+}
+.cover img{
+    margin-top: 3.2rem;
+    width: 100%;
+    height: 400px;
+  object-fit: cover;
+}
+.overlay{
+    position: absolute;
+    top: 6rem;
+    left: 8rem;
+    font-size: 1.3rem;
+    color: #000;
+    font-weight: 700;
+}
+.overlay .author{
+    position: absolute;
+    right: 0;
+} 
+.container{
+    padding: 30px;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.quote-left{
+    transform: rotate(180deg);
+}
+@media screen and (max-width: 1024px) {
+    .overlay{
+        position: absolute;
+        top: 6rem;
+        left: 6rem;
+        font-size: 1rem;
+        color: #000;
+        font-weight: 700;
+    }
+}
+@media screen and (max-width: 768px) {
+    .overlay{
+        position: absolute;
+        top: 6rem;
+        left: 6rem;
+        font-size: 0.8rem;
+        color: #000;
+        font-weight: 700;
+    }
+    .overlay svg{
+        font-size: 0.8rem;
+    }
+}

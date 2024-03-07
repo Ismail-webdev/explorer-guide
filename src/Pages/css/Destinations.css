@@ -1,0 +1,21 @@
+.Destinations{
+    padding-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.heading-guide{
+    padding-top: 5rem;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.accordion{
+    margin: 0 40px;
+}
+.places{
+    display: flex;
+    flex-wrap: wrap;
+}

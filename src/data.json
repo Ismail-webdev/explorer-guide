@@ -1,0 +1,284 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "name": "Taj Mahal",
+        "location": "Agra, Uttar Pradesh",
+        "description": "The iconic white marble mausoleum, a UNESCO World Heritage Site, known for its stunning architecture and symbolizing eternal love.",
+        "category": "Historical",
+        "image": "https://images.pexels.com/photos/6618044/pexels-photo-6618044.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Jaipur",
+        "location": "Rajasthan",
+        "description": "The Pink City known for its vibrant culture, historic forts like Amer Fort, and the Hawa Mahal.",
+        "category": "Cultural",
+        "image": "https://i.pinimg.com/564x/d9/f4/af/d9f4af627c58484b5d1587538b698337.jpg",
+        "rating": 4.5 
+      },
+      {
+        "id": 3,
+        "name": "Goa",
+        "location": "Goa",
+        "description": "Famous for its beautiful beaches, vibrant nightlife, and Portuguese-influenced architecture.",
+        "category": "Beach",
+        "image":"https://images.unsplash.com/photo-1625505826533-5c80aca7d157?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rating": 4.2
+      },
+      {
+        "id": 4,
+        "name": "Kerala Backwaters",
+        "location": "Kerala",
+        "description": "A network of lagoons, lakes, and canals, offering picturesque boat cruises and a serene environment.",
+        "category": "Nature",
+        "image": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2VyYWxhJTIwYmFja3dhdGVyc3xlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.7
+      },
+      {
+        "id": 5,
+        "name": "Rishikesh",
+        "location": "Uttarakhand",
+        "description": "A spiritual hub on the banks of the Ganges River, known for yoga, adventure activities, and the Laxman Jhula.",
+        "category": "Adventure",
+        "image":"https://images.unsplash.com/photo-1603867106100-0d2039fc8757?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmlzaGlrZXNofGVufDB8fDB8fHww",
+        "rating": 4.4
+      },
+      {
+        "id": 6,
+        "name": "Mysore",
+        "location": "Karnataka",
+        "description": "Famous for the Mysore Palace, vibrant silk, and sandalwood markets, and the Chamundi Hills.",
+        "category": "Cultural",
+        "image":"https://images.unsplash.com/photo-1590766940554-634a7ed41450?q=80&w=1599&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rating": 4.6
+      },
+      {
+    "id": 7,
+    "name": "Ladakh",
+    "location": "Jammu and Kashmir",
+  "description": "Known for its stunning landscapes, high mountain passes, monasteries, and vibrant cultural heritage. A paradise for adventure enthusiasts and nature lovers.",
+  "category": "Adventure",
+  "image": "https://media.istockphoto.com/id/1067678216/photo/snow-mountain-view-of-leh-ladakh-district-norther-part-of-india.jpg?s=612x612&w=0&k=20&c=Po5iOrWvC4rjxBVc_my1F4w-AOt4bC5AvkbPk9rOs5o=",
+  "rating": 4.8
+   },
+  {
+    "id": 8,
+    "name": "Rann of Kutch",
+    "location": "Gujarat",
+    "description": "Known for its vast salt marshes, the Rann of Kutch is a unique desert landscape that transforms into a white salt desert during the dry season. It hosts the Rann Utsav, a cultural festival celebrating the rich heritage and crafts of Gujarat.",
+    "category": "Natural",
+    "image": "https://t4.ftcdn.net/jpg/02/81/29/29/360_F_281292997_D0nNC01ut8AeHlOjKSJdiWy27DEzQgfU.webp",
+    "rating": 4.5
+    }
+    ],
+    "wonder":[
+      {
+        "id":11,
+        "name": "Taj Mahal",
+        "location": "Agra, Uttar Pradesh",
+        "description": "A stunning white marble mausoleum, known for its intricate architecture and as a symbol of eternal love.",
+        "image": "https://images.pexels.com/photos/6618044/pexels-photo-6618044.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "yearBuilt": 1632
+      },  
+       {
+        "id":12,
+        "name": "Jaipur's Hawa Mahal",
+        "location": "Jaipur, Rajasthan",
+        "description": "A palace with a unique honeycomb design, allowing royal women to observe street festivals without being seen.",
+        "image": "https://i.pinimg.com/564x/d9/f4/af/d9f4af627c58484b5d1587538b698337.jpg",
+        "yearBuilt": 1799
+      },
+      {
+        "id":13,
+        "name": "Ajanta and Ellora Caves",
+        "location": "Maharashtra",
+        "description": "Ancient rock-cut caves showcasing exquisite paintings and sculptures, reflecting Buddhist, Hindu, and Jain traditions.",
+        "image":"https://media.istockphoto.com/id/514991038/photo/ellora-caves-in-india.jpg?s=612x612&w=0&k=20&c=mGpgTujahN8VUTQnKei3T40Lh3AOMK_XKM5727eOUwY=",
+        "yearBuilt": "2nd century BCE - 6th century CE"
+      },
+      {
+        "id":14,
+        "name": "Golden Temple",
+        "location": "Amritsar, Punjab",
+        "description": "A sacred Sikh shrine known for its stunning golden architecture and the reflective pool surrounding it.",
+        "image":"https://media.istockphoto.com/id/535570117/photo/golden-temple-in-amritsar-punjab-india.jpg?s=612x612&w=0&k=20&c=TAgZK64Qz6YsljOK1rXZrrW1u1YSlb9e_YBEmm2pfBw=",
+        "yearBuilt": 1577
+      },
+      {
+        "id":15,
+        "name": "Victoria Memorial",
+        "location": "Kolkata, West Bengal",
+        "description": "A large marble building dedicated to Queen Victoria, showcasing a blend of British and Mughal architectural styles.",
+        "image":"https://media.istockphoto.com/id/466240080/photo/victoria-memorial-landmark-in-calcutta-india.jpg?s=612x612&w=0&k=20&c=908J0rxwTyUBivotass3lCizKrsE5gGYQ5UpHP3V6zY=",
+        "yearBuilt": 1921
+      },
+      {
+        "id":16,
+        "name": "Gateway of India",
+        "location": "Mumbai, Maharashtra",
+        "description": "An iconic arch monument built to commemorate the visit of King George V and Queen Mary, overlooking the Arabian Sea.",
+        "image":"https://media.istockphoto.com/id/177382401/photo/a-lit-up-photograph-of-the-gateway-of-india-at-night.jpg?s=612x612&w=0&k=20&c=ubg9HcW70KrZIfrxi_lM1880W-tKwYndgbg71QZgSiU=",
+        "yearBuilt": 1924
+      },
+      {
+        "id":17,
+        "name": "Mysore Palace",
+        "location": "Mysuru, Karnataka",
+        "description": "A grand palace with a mix of architectural styles, serving as the official residence of the Wadiyar dynasty.",
+        "image": "https://media.istockphoto.com/id/155998987/photo/palace-of-mysore.jpg?s=612x612&w=0&k=20&c=rhEPG8oBVb69_W-Z93sYyBoJXktZ95YpE3tu10xMYe8=",
+        "yearBuilt": 1912
+      },
+      {
+        "id": 18,
+        "name": "Hampi",
+        "location": "Hampi, Karnataka",
+        "description": "A UNESCO World Heritage Site, Hampi is an ancient city known for its magnificent ruins, ancient temples, and historical significance.",
+        "image": "https://media.istockphoto.com/id/1270774245/photo/hampi-stone-chariot-the-antique-stone-art-piece-from-unique-angle-with-amazing-blue-sk.jpg?s=612x612&w=0&k=20&c=LugJgTiUd9y_8MO2KDQ2I4IvOD_7BH5x_R8iRApqEUg=",
+        "yearBuilt": 1336
+      }
+    ],
+    "adventure": [
+      {
+        "id":21,
+          "activity": "Trekking in the Himalayas",
+          "location": "Himachal Pradesh, Uttarakhand, Sikkim",
+          "description": "Experience breathtaking views, diverse cultures, and challenging treks in the highest mountain range in the world.",
+          "img":"https://lp-cms-production.s3.amazonaws.com/public/features/2013/04/himalaya2_cs.jpg",
+          "rating": 4.8
+      },
+      {
+          "id":22,
+          "activity": "White Water Rafting",
+          "location": "Rishikesh, Kolad, Kullu",
+          "description": "Navigate thrilling rapids on some of India’s most exciting rafting destinations, surrounded by natural beauty.",
+          "img":"https://www.holidify.com/images/cmsuploads/articles/290.jpg",
+          "rating": 4.6
+      },
+      {
+        "id":23,
+          "activity": "Paragliding",
+          "location": "Bir-Billing, Manali, Goa",
+          "description": "Soar above picturesque valleys or coastal areas, taking in panoramic vistas while experiencing the ultimate adrenaline rush.",
+          "img":"https://media.easemytrip.com/media/Blog/India/638285706022033478/638285706022033478vSWyNx.jpg",
+          "rating": 4.5
+      },
+      {
+          "id":24,
+          "activity": "Scuba Diving & Snorkeling",
+          "location": "Lakshadweep Islands, Andaman Nicobar Islands, Goa",
+          "description": "Explore vibrant coral reefs teeming with marine life, discover hidden underwater caves, and enjoy crystal clear waters.",
+          "img":"https://static.india.com/wp-content/uploads/2018/08/Scuba-diving.jpg?impolicy=Medium_Resize&w=1200&h=800",
+          "rating": 4.7
+        },
+      {
+        "id":25,
+          "activity": "Hot Air Ballooning",
+          "location": "Pune, Rajasthan, Karnataka",
+          "description": "Float gently over historic sites, vast deserts, or verdant forests, enjoying bird's eye views from serene heights.",
+          "img":"https://ihplb.b-cdn.net/wp-content/uploads/2015/10/Air-Balloon-Ride-in-Karnataka.jpg",
+          "rating": 4.2
+      },
+      { 
+          "id":26,
+          "activity": "Wildlife Safaris",
+          "location": "Corbett National Park, Bandhavgarh National Park, Kaziranga National Park",
+          "description": "Encounter majestic tigers, elephants, rhinos, and various other wildlife species during exhilarating jungle safaris.",
+          "img": "https://www.travelandleisure.com/thmb/p4psacoRJOvhTk7lGtgbFgog1NQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ranthambhore-national-park-INDIASAFARI0921-d1979913f8f544ae9a52b4bd2923f265.jpg",
+          "rating": 4.9
+      }
+    ],
+    "unesco-site": [
+      {
+        "id": 31,
+        "name": "The Taj Mahal, Uttar Pradesh",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Taj-mahal.jpg",
+        "location": "Dharmapuri, Forest Colony, Tajganj, Agra",
+        "best-time": "October to March",
+        "time-required": "2 hours",
+        "entry-fees": {
+          "indian": "50",
+          "foreigners": "1100",
+          "free": "Free for children below 15 years of age"
+        }
+      },
+      {
+        "id":32,
+        "name": "Agra Fort, Uttar Pradesh",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2018/07/Agra-Fort.jpg",
+        "location": "Rakabganj, Agra, Uttar Pradesh",
+        "best-time": "October to March"
+      },
+      {
+        "id":33,
+        "name": "Fatehpur Sikri, Uttar Pradesh",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Fatehpur-Sikri.jpg",
+        "location": "37 km from Agra, Uttar Pradesh",
+        "best-time": "October to March"
+      },
+      {
+        "id":34,
+        "name": "Ajanta Caves, Maharashtra",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/06/Ajanta-Caves.jpg",
+        "location": "Near Jalgaon, Aurangabad district, Maharashtra",
+        "best-time": "October to March"
+      },
+      {
+        "id":35,
+        "name": "Ellora Caves, Maharashtra",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/06/Ellora-Caves.jpg",
+        "location": "Ellora Cave Road, Ellora, Maharashtra",
+        "best-time": "October to March"
+      },
+      {
+        "id":36,
+        "name": "Elephanta Caves, Maharashtra",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/02/Elephanta-Caves.jpg",
+        "location": "Gharapuri, Maharashtra",
+        "best-time": "November to March"
+      },
+      {
+        "id":37,
+        "name": "Chhatrapati Shivaji Terminus, Maharashtra",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/04/Chhatrapati-Shivaji-Terminus-CST.jpg",
+        "location": "Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra",
+        "best-time": "October to March"
+      },
+      {
+        "id":38,
+        "name": "Victorian and Art Deco Ensembles of Mumbai, Maharashtra",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2022/01/8-Victorian-and-Art-Deco-Ensembles-of-Mumbai_1415490278.jpg",
+        "location": "Mumbai, Maharashtra",
+        "best-time": "November to March"
+      },
+      {
+        "id":39,
+        "name": "Churches and Convents of Goa",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/04/Church-of-Our-Lady-of-Immaculate-Conception.jpg",
+        "location": "Old Goa",
+        "best-time": "November to February"
+      },
+      {
+        "id":40,
+        "name": "Khajuraho Group of Monuments, Madhya Pradesh",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/04/Khajuraho1.jpg",
+        "location": "Chhatarpur, Madhya Pradesh",
+        "best-time": "October to March"
+      },
+      {
+        "id":41,
+        "name": "Buddhist Monuments at Sanchi, Madhya Pradesh",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Sanchi1.jpg",
+        "location": "Sanchi town, Raisen district, Madhya Pradesh",
+        "best-time": "November to March"
+      },
+      {
+        "id":42,
+        "name": "Rock Shelters of Bhimbetka, Madhya Pradesh",
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Bhimbetka-Rock-Shelters.jpg",
+        "location": "Raisen District, Madhya Pradesh (45 km from Bhopal)",
+        "best-time": "October to April"
+      }
+    ]
+  }  
