@@ -8,7 +8,7 @@ const Home = () => {
   return (
    <div>
    <div className='cover'>
-  <img src={Img}x alt='cover-img' />
+  <img src={Img} alt='cover-img' />
  <div className='overlay'>
  <p><Quote className='quote-left'/> Explore the cultural richness and diverse landscapes of India through our travel guide <Quote /></p>
  <span className='author'><strong>-Explorer Guide</strong></span>

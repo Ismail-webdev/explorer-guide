@@ -11,7 +11,7 @@ useEffect(() => {
       const response = await axios.get('https://newsapi.org/v2/top-headlines', {
         params: {
           country: 'in', 
-          apiKey: import.meta.env.VITE_API_KEY,
+          apiKey: import.meta.env.REACT_API_KEY,
         },
       });
       setData(response.data.articles);
